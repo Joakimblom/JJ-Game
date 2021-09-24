@@ -144,9 +144,3 @@ Received Import Request.
   path: Assets/Scripts
   artifactKey: Guid(5d599674ce3a74e85a48baaed1dc7420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scripts using Guid(5d599674ce3a74e85a48baaed1dc7420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6231457715310705b4a711d357377b80') in 0.007730 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 104.667923 seconds.
-  path: Assets/New Script Graph.asset
-  artifactKey: Guid(9ffb809d4bafd442fa37cae2d117145e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/New Script Graph.asset using Guid(9ffb809d4bafd442fa37cae2d117145e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8978d7b34c6083a38bf23f1c175859ec') in 0.684384 seconds 
