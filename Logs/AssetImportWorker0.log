@@ -156,3 +156,15 @@ Received Import Request.
   path: Assets/Scenes/MainScene.unity
   artifactKey: Guid(f900af7c2c1774ce3a60e307d88adc3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/MainScene.unity using Guid(f900af7c2c1774ce3a60e307d88adc3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae84fc6121b46c54c1e963546fe02d1b') in 0.002696 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 907.986764 seconds.
+  path: Assets/Text Files
+  artifactKey: Guid(d4456d4f9496240a999ad367d1300dd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Text Files using Guid(d4456d4f9496240a999ad367d1300dd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1576c7181d24e3c7a31e4ba45fbdac2') in 0.004516 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.808939 seconds.
+  path: Assets/Text Files/JJ Game Checklist.rtf
+  artifactKey: Guid(4d317c8cb78134f7b8500f0c82cbf1c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Text Files/JJ Game Checklist.rtf using Guid(4d317c8cb78134f7b8500f0c82cbf1c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4202ff4def1b64f9de1e7f59f61280e4') in 1.057355 seconds 
