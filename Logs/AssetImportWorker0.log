@@ -1918,3 +1918,9 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 392.353904 seconds.
+  path: Assets/Weapon/Enemy#1.blend
+  artifactKey: Guid(8db8464b1bf201d40a64c927bfa50c42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Weapon/Enemy#1.blend using Guid(8db8464b1bf201d40a64c927bfa50c42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0395cd133c8d77205365435984547d6') in 0.011213 seconds 
